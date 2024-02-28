@@ -32,8 +32,7 @@ const apiKey = 'YOUR_API_KEY_HERE';
 
 ## Visit the Site
 
-Visit the Weather App site: [Visit Site]([https://checkwhether.netlify.app/])
-
+Visit the Weather App site: [Weather App](https://checkwhether.netlify.app/)
 
 
 ## Acknowledgments
